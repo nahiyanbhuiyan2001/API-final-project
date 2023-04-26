@@ -21,6 +21,7 @@ There are 4 different endpoints the client can use. They are:
 4. POST url = "https://localhost:5001/api/team"
 
 The function of the 4 HTTP methods and API endpoints are :
+
 // GET: api/team         **retrieves all of the teams in the table
 
 // GET: api/team/5       **retrieves a specific team in the table
