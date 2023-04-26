@@ -32,7 +32,7 @@ The function of the 4 HTTP methods and API endpoints are :
 Screenshots on GitHub README
 --------------------------------------------------------------------------------
 • Sample response body?
-I will provide screenshots
+Screenshots on GitHub README
 ------------------------------------------------------------------------------------
 If I had more time and knowledge about C Sharp, I would try to create another controller that would help us get 
 information from the players table. I also would make a DELETE method because I was running into a bunch of foreign 
