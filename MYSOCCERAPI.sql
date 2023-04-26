@@ -1,3 +1,4 @@
+CREATE DATABASE SoccerStats;
 USE SoccerStats;
 
 CREATE TABLE Teams(
