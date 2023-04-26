@@ -29,11 +29,10 @@ The function of the 4 HTTP methods and API endpoints are :
 1 controller in my API named "TeamController" folder
 --------------------------------------------------------------------------------
 • Sample request bodies, if applicable? 
-Screenshots on GitHub README
+Example screenshots on GitHub README
 --------------------------------------------------------------------------------
 • Sample response body?
-I have one response body class I created call "SoccerResult.cs". There I have 3 statements that provide status codes
-and fetch messages after an API call.
+Example screenshots on GitHub README
 ------------------------------------------------------------------------------------
 If I had more time and knowledge about C Sharp, I would try to create another controller that would help us get 
 information from the players table. I also would make a DELETE method because I was running into a bunch of foreign 
