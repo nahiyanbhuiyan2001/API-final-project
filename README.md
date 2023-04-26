@@ -22,8 +22,11 @@ There are 4 different endpoints the client can use. They are:
 
 The function of the 4 HTTP methods and API endpoints are :
 // GET: api/team         **retrieves all of the teams in the table
+
 // GET: api/team/5       **retrieves a specific team in the table
+
 // POST: api/team        **Add a new team entry in the table
+
 // PUT: api/team/{teamNo} **Change information on a specific team in the table
 
 1 controller in my API named "TeamController" folder
