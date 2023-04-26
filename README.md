@@ -38,7 +38,7 @@ Example screenshots on GitHub README
 • Sample response body?
 Example screenshots on GitHub README
 ------------------------------------------------------------------------------------
-• A Consisent response model is included as well. It's a class called "SoccerResult.cs" that adds a response to an API call
+A Consisent response model is included as well. It's a class called "SoccerResult.cs" that adds a response to an API call
 
 If I had more time and knowledge about C Sharp, I would try to create another controller that would help us get 
 information from the players table. I also would make a DELETE method because I was running into a bunch of foreign 
