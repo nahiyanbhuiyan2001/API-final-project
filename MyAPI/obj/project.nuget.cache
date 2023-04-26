@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9X9d0cg9KS/L/Qja29cDXG7jT3dwYaiCGHWaC7VKf6z5XsVp9gExHsnd6CHXkM7BI+vqRPiywZEyqfTpCtuvA==",
+  "dgSpecHash": "DrUpf16+6Mvo6YnwLZHf5dA+xPUoL9pVplsa9/a40OJWdaaLG5lpIYBmo6bAYS6HnkXf26DeDIDIqWgI9BbYSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nahiy\\Desktop\\MYSOCCERAPI\\MyAPI\\SoccerInfo.csproj",
+  "projectFilePath": "C:\\Users\\nahiy\\Desktop\\MYSOCCERAPI\\API-final-project\\MyAPI\\SoccerInfo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nahiy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nahiy\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
